@@ -1,0 +1,33 @@
+body{
+    width: 60%;
+    margin: auto;
+}
+
+#root{
+    margin-top: 50px;
+}
+
+input{
+    display: block;
+    margin-bottom: 10px;
+}
+
+.shadow_border {
+    background-color: white;
+    border-radius: 8px;
+    border-style: solid;
+    border-color: black;
+    border-width: 1px;
+    box-shadow: 2px 3px 8px #000000;
+    padding: 10px;
+}
+
+table {
+    margin-top: 20px;
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  table, th, td {
+    border: 1px solid black;
+  }
